@@ -4,6 +4,14 @@
 
 ---
 
+<div align="center">
+
+![Claude](../images/claude.png)
+
+</div>
+
+---
+
 ## What You Will Learn Today
 
 - How to create a free Claude account
