@@ -160,8 +160,9 @@ By the end of this challenge, you will:
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Amir Sharfu**
+- GitHub: [@amir-sharfu](https://github.com/amir-sharfu)
+- Email: amirazmi078@gmail.com
 
 ---
 
