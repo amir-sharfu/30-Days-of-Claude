@@ -4,7 +4,7 @@
 
 ---
 
-## What You Will Learn Today
+## 🎯 What You Will Learn Today
 
 - How to have a natural conversation with Claude
 - The difference between a good and a vague prompt
@@ -14,7 +14,7 @@
 
 ---
 
-## How Conversations Work
+## 💬 How Conversations Work
 
 Talking to Claude is like having a conversation with a knowledgeable friend. You say something, Claude responds, you reply, and it builds from there.
 
@@ -45,7 +45,7 @@ Notice how Claude remembers what was discussed earlier in the conversation. You 
 
 ---
 
-## Your First Prompts
+## ✍️ Your First Prompts
 
 Open claude.ai and try these **starter prompts** right now:
 
@@ -75,7 +75,7 @@ working together again?
 
 ---
 
-## Good Prompts vs. Vague Prompts
+## ⚖️ Good Prompts vs. Vague Prompts
 
 The quality of Claude's response depends heavily on how you phrase your request. Compare these:
 
@@ -92,7 +92,7 @@ The pattern: **be specific** about what you want, who it's for, and what format 
 
 ---
 
-## The Anatomy of a Great Prompt
+## 🔬 The Anatomy of a Great Prompt
 
 ```mermaid
 graph LR
@@ -136,7 +136,7 @@ You don't need all four parts every time — but thinking about them helps.
 
 ---
 
-## How to Guide Claude Mid-Conversation
+## 🎯 How to Guide Claude Mid-Conversation
 
 If Claude's first response isn't quite right, don't start over — guide it:
 
@@ -152,7 +152,7 @@ Claude is very good at following correction. Think of it as working with a colla
 
 ---
 
-## Common Beginner Mistakes
+## ⚠️ Common Beginner Mistakes
 
 ### Mistake 1: Being too vague
 ❌ "Tell me about history"
@@ -175,7 +175,7 @@ Claude can be wrong — especially on specific facts, dates, or technical detail
 
 ---
 
-## Conversation Tips
+## 💡 Conversation Tips
 
 - **Be conversational** — you can talk to Claude like you'd talk to a helpful colleague
 - **Be patient** — sometimes rephrasing helps Claude understand you better
@@ -185,7 +185,7 @@ Claude can be wrong — especially on specific facts, dates, or technical detail
 
 ---
 
-## Summary
+## 📋 Summary
 
 🌕 Day 3 done! You had your first real conversations with Claude. Here's what you learned:
 
@@ -197,21 +197,21 @@ Claude can be wrong — especially on specific facts, dates, or technical detail
 
 ---
 
-## Exercises
+## 🏋️ Exercises
 
-### Level 1 — Beginner
+### 🟢 Level 1 — Beginner
 
 1. Send Claude this prompt: "I'm learning to use AI for the first time. What are 3 things I should know?" — Write down Claude's response in your own words.
 2. Ask Claude to explain your favorite topic (sport, hobby, subject) as if explaining to a complete beginner. How did it do?
 3. Send a vague prompt, then immediately send an improved, more specific version. Compare the two responses.
 
-### Level 2 — Intermediate
+### 🟡 Level 2 — Intermediate
 
 4. Have a 5-message conversation with Claude about a topic you want to learn. Practice: ask a question → follow up → ask for clarification → ask it to simplify → ask for an example.
 5. Ask Claude to write something, then ask it to rewrite the same thing in 3 different tones (formal, casual, funny). Notice the differences.
 6. Practice guiding Claude: ask it to write something, then give 2-3 rounds of feedback and corrections to improve it.
 
-### Level 3 — Challenge
+### 🔴 Level 3 — Challenge
 
 7. Design a "perfect prompt" for a real task you need help with. Include all four elements: Task, Context, Format, and Constraints. Share what you got.
 8. Test Claude's accuracy: ask it a question you already know the answer to. Did Claude get it right? If not, how did you correct it?

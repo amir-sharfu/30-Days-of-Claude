@@ -4,7 +4,7 @@
 
 ---
 
-## What You Will Learn Today
+## 🎯 What You Will Learn Today
 
 - What "models" are and why they matter
 - Claude's different model versions (Haiku, Sonnet, Opus)
@@ -14,7 +14,7 @@
 
 ---
 
-## What is a "Model"?
+## 🧩 What is a "Model"?
 
 When people talk about AI "models," they mean the specific version of the AI system being used. Think of it like different cars from the same manufacturer — a Toyota Corolla and a Toyota Land Cruiser are both Toyotas, but they have different capabilities, sizes, and price points.
 
@@ -31,7 +31,7 @@ Each model represents a different **tradeoff** between speed, cost, and intellig
 
 ---
 
-## The Claude Model Lineup
+## 🏆 The Claude Model Lineup
 
 ```mermaid
 graph LR
@@ -119,7 +119,7 @@ graph LR
 
 ---
 
-## Comparing the Models
+## ⚖️ Comparing the Models
 
 | Capability | Haiku | Sonnet | Opus |
 |-----------|-------|--------|------|
@@ -133,7 +133,7 @@ graph LR
 
 ---
 
-## Claude Plans: Free vs. Pro vs. Team
+## 💼 Claude Plans: Free vs. Pro vs. Team
 
 ### Free Plan
 - Access to Claude (usually Haiku or Sonnet)
@@ -158,7 +158,7 @@ graph LR
 
 ---
 
-## How to Know Which Model You're Using
+## 🔍 How to Know Which Model You're Using
 
 On claude.ai, you may see the model name displayed near the chat input box or in settings. The available models depend on your plan.
 
@@ -169,7 +169,7 @@ When in doubt, check the claude.ai settings or the model selector if one is visi
 
 ---
 
-## Choosing the Right Model for Your Task
+## 🎯 Choosing the Right Model for Your Task
 
 Use this simple guide:
 
@@ -187,7 +187,7 @@ Use this simple guide:
 
 ---
 
-## How Models Are Named (A Quick Note)
+## 🏷️ How Models Are Named
 
 Model names follow a pattern:
 
@@ -204,7 +204,7 @@ Anthropic updates models over time. Newer versions within the same tier are gene
 
 ---
 
-## Summary
+## 📋 Summary
 
 🌕 Day 5 complete! Here's what you learned about Claude models:
 
@@ -216,21 +216,21 @@ Anthropic updates models over time. Newer versions within the same tier are gene
 
 ---
 
-## Exercises
+## 🏋️ Exercises
 
-### Level 1 — Beginner
+### 🟢 Level 1 — Beginner
 
 1. Look at your current Claude interface. What model are you using? (Check the settings or model selector)
 2. In your own words, explain the difference between Haiku, Sonnet, and Opus to a friend who has never heard of Claude.
 3. For each of the following tasks, pick which model you would use and explain why: (a) checking grammar in an email, (b) analyzing a 20-page business report, (c) answering "what is 15% of 80?"
 
-### Level 2 — Intermediate
+### 🟡 Level 2 — Intermediate
 
 4. If you have access to multiple models, ask the same question to two different models and compare the responses. How are they different?
 5. Why do you think AI companies offer multiple tiers of models instead of just one? What business and user reasons might explain this?
 6. Research the latest Claude model versions available. How do they compare to what's described in this lesson? (AI moves fast — things may have changed!)
 
-### Level 3 — Challenge
+### 🔴 Level 3 — Challenge
 
 7. Design a workflow for a specific job or task (e.g., a marketer writing weekly content, a student doing research). Which Claude model would you use for which parts of the workflow? Explain your reasoning.
 8. AI companies continuously release new model versions. What factors do you think drive these improvements? What challenges do engineers face when building more capable models?

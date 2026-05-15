@@ -4,7 +4,17 @@
 
 ---
 
-> *Coming soon. Complete Days 1–10 first!*
+<div align="center">
+
+## 🚧 Coming Soon
+
+📖 **Complete Days 1–10 first to build your foundation!**
+
+| 🎓 Phase | 📚 Topic Area | 📅 Unlocks |
+|:---:|:---:|:---:|
+| Phase 2 — Prompting | The Art of Prompting | After Day 10 |
+
+</div>
 
 ---
 

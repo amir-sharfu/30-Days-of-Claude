@@ -4,7 +4,17 @@
 
 ---
 
-> *Coming soon. Complete Days 1–28 first!*
+<div align="center">
+
+## 🚧 Coming Soon
+
+📖 **Complete Days 1–28 first to build your foundation!**
+
+| 🎓 Phase | 📚 Topic Area | 📅 Unlocks |
+|:---:|:---:|:---:|
+| Phase 5 — Projects | Capstone Projects | After Day 28 |
+
+</div>
 
 ---
 

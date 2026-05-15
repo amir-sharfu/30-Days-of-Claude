@@ -4,7 +4,17 @@
 
 ---
 
-> *Coming soon. Complete Days 1–25 first!*
+<div align="center">
+
+## 🚧 Coming Soon
+
+📖 **Complete Days 1–25 first to build your foundation!**
+
+| 🎓 Phase | 📚 Topic Area | 📅 Unlocks |
+|:---:|:---:|:---:|
+| Phase 4 — Advanced | Advanced Claude | After Day 25 |
+
+</div>
 
 ---
 

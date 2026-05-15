@@ -4,7 +4,7 @@
 
 ---
 
-## What You Will Learn Today
+## 🎯 What You Will Learn Today
 
 - Why AI safety and ethics matter
 - Anthropic's approach to building safe AI
@@ -15,7 +15,7 @@
 
 ---
 
-## Why Does AI Safety Matter?
+## ⚠️ Why Does AI Safety Matter?
 
 AI is a powerful technology. Like any powerful tool, it can be used for good or harm. A hammer can build a house or break a window. The same is true of AI.
 
@@ -25,7 +25,7 @@ This isn't just a marketing statement — it shapes how Claude behaves in every 
 
 ---
 
-## Anthropic's Mission & Approach
+## 🏛️ Anthropic's Mission & Approach
 
 **Anthropic** is an AI safety company. Unlike companies that rush to release the most powerful AI as fast as possible, Anthropic's mission is to build AI that is:
 
@@ -37,7 +37,7 @@ This focus on safety led Anthropic to develop a training approach called **Const
 
 ---
 
-## Claude's Core Principles: Helpful, Harmless, Honest
+## 💎 Claude's Core Principles: Helpful, Harmless, Honest
 
 ### Helpful
 Claude tries to be genuinely useful — not just giving vague non-answers, but actually engaging with what you need.
@@ -54,7 +54,7 @@ Claude acknowledges uncertainty. When it doesn't know something, it says so. It 
 
 ---
 
-## What Claude Won't Help With
+## 🚫 What Claude Won't Help With
 
 Some things are off-limits regardless of how the request is framed. Claude will decline:
 
@@ -70,7 +70,7 @@ Some things are off-limits regardless of how the request is framed. Claude will 
 
 ---
 
-## What Claude Can Discuss
+## ✅ What Claude Can Discuss
 
 Many sensitive topics can be discussed thoughtfully:
 
@@ -83,7 +83,7 @@ Many sensitive topics can be discussed thoughtfully:
 
 ---
 
-## AI Hallucination: What It Is and How to Handle It
+## 🌀 AI Hallucination: What It Is and How to Handle It
 
 ```mermaid
 graph TD
@@ -135,7 +135,7 @@ Claude learned by predicting what text comes next, based on patterns in training
 
 ---
 
-## Responsible Use: A Guide for Users
+## 🛡️ Responsible Use: A Guide for Users
 
 Here are principles for using Claude responsibly:
 
@@ -160,7 +160,7 @@ Some users try tricks to make Claude bypass its guidelines. This is not a game t
 
 ---
 
-## Claude's Honesty About Itself
+## 🤝 Claude's Honesty About Itself
 
 Claude will tell you:
 - "I'm not sure about this — you should verify it"
@@ -172,7 +172,7 @@ These statements aren't failures — they're features. An honest AI that admits 
 
 ---
 
-## Privacy and Data
+## 🔒 Privacy and Data
 
 When you use Claude on claude.ai:
 - Conversations may be reviewed by Anthropic for safety and improvement
@@ -182,7 +182,7 @@ When you use Claude on claude.ai:
 
 ---
 
-## Summary
+## 📋 Summary
 
 🌕 Day 6 complete! Here's what you learned:
 
@@ -194,21 +194,21 @@ When you use Claude on claude.ai:
 
 ---
 
-## Exercises
+## 🏋️ Exercises
 
-### Level 1 — Beginner
+### 🟢 Level 1 — Beginner
 
 1. In your own words, explain what "AI hallucination" is. Why might it be dangerous if a user doesn't know about it?
 2. Name 3 things Claude will not help with. Why do you think each of those limits exist?
 3. List 2 types of information you should NOT share with Claude (for privacy reasons).
 
-### Level 2 — Intermediate
+### 🟡 Level 2 — Intermediate
 
 4. Find an example of something controversial that Claude CAN discuss in an educational context, but wouldn't do if asked to facilitate harm. Where is that line?
 5. Ask Claude: "Are you always right?" — What does it say? What does this tell you about how Claude is designed?
 6. Think about a profession (doctor, lawyer, teacher). How could someone in that profession use Claude responsibly? What risks should they be aware of?
 
-### Level 3 — Challenge
+### 🔴 Level 3 — Challenge
 
 7. Research: What is "Constitutional AI" and how does Anthropic use it to train Claude? How is this different from how other AI systems are trained?
 8. Debate both sides: "AI companies should allow users to remove all safety restrictions if they want." What are the arguments for and against this view?

@@ -10,6 +10,12 @@
 
 **A 30-day journey from complete beginner to confident Claude AI user.**
 
+<br>
+
+| 📅 30 Days | 🎓 5 Phases | 🏋️ 90 Exercises | 💡 3 Difficulty Levels | 🆓 Always Free |
+|:---:|:---:|:---:|:---:|:---:|
+| One lesson a day | Structured path | Practice daily | Beginner → Expert | No payment needed |
+
 </div>
 
 ---
@@ -21,29 +27,29 @@
 No coding experience required. No prior AI knowledge needed. Just curiosity and 30 minutes a day.
 
 By the end of this challenge, you will:
-- Understand what Claude is and how it works
-- Write effective prompts that get great results
-- Apply Claude to real-world tasks (writing, research, coding, and more)
-- Know how to use Claude for your work, study, and creative projects
+- 🧠 Understand what Claude is and how it works
+- ✍️ Write effective prompts that get great results
+- 🛠️ Apply Claude to real-world tasks (writing, research, coding, and more)
+- 🚀 Know how to use Claude for your work, study, and creative projects
 
 ---
 
 ## 📋 Prerequisites
 
-- A computer with internet access
-- A free [Claude account](https://claude.ai) (sign up takes 2 minutes)
-- 30 minutes per day
-- Curiosity and willingness to experiment
+- 💻 A computer with internet access
+- 🔑 A free [Claude account](https://claude.ai) (sign up takes 2 minutes)
+- ⏱️ 30 minutes per day
+- 🔥 Curiosity and willingness to experiment
 
 ---
 
 ## 🗺️ How to Use This Course
 
-1. Start at Day 1 and work through the days in order
-2. Read each lesson carefully
-3. Try all the examples yourself — don't just read them
-4. Complete the exercises at the end of each day
-5. Share what you learn with others
+1. 📌 Start at Day 1 and work through the days in order
+2. 📖 Read each lesson carefully
+3. 🧪 Try all the examples yourself — don't just read them
+4. 🏋️ Complete the exercises at the end of each day
+5. 🤝 Share what you learn with others
 
 > 💡 **Tip:** The best way to learn Claude is by using it. Open claude.ai alongside this course and practice every concept as you read.
 

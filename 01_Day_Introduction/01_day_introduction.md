@@ -4,7 +4,7 @@
 
 ---
 
-## What You Will Learn Today
+## 🎯 What You Will Learn Today
 
 - What Artificial Intelligence (AI) is
 - What Claude is and who made it
@@ -14,7 +14,7 @@
 
 ---
 
-## What is Artificial Intelligence?
+## 🧠 What is Artificial Intelligence?
 
 **Artificial Intelligence (AI)** is technology that allows computers to perform tasks that normally require human intelligence — like understanding language, answering questions, writing, solving problems, and reasoning.
 
@@ -31,7 +31,7 @@ AI has been around for decades, but **Large Language Models (LLMs)** — the tec
 
 ---
 
-## What is Claude?
+## 🤖 What is Claude?
 
 **Claude** is an AI assistant created by **Anthropic**, an AI safety company founded in 2021.
 
@@ -51,7 +51,7 @@ Claude is what's called a **Large Language Model (LLM)**. It was trained on vast
 
 ---
 
-## Claude vs. a Search Engine
+## 🔍 Claude vs. a Search Engine
 
 ```mermaid
 graph LR
@@ -94,7 +94,7 @@ If you ask Claude "How do I write a professional email to my boss asking for a r
 
 ---
 
-## What Can Claude Do?
+## ⚡ What Can Claude Do?
 
 Claude is remarkably versatile. Here's a taste of what you'll learn to do in this course:
 
@@ -120,7 +120,7 @@ Claude is remarkably versatile. Here's a taste of what you'll learn to do in thi
 
 ---
 
-## Key Vocabulary
+## 📖 Key Vocabulary
 
 These terms will appear throughout the course. Get familiar with them now:
 
@@ -138,7 +138,7 @@ These terms will appear throughout the course. Get familiar with them now:
 
 ---
 
-## Claude's Core Values
+## 💎 Claude's Core Values
 
 Anthropic designed Claude to be:
 
@@ -150,7 +150,7 @@ This is why Claude sometimes says "I'm not sure" or "I could be wrong about this
 
 ---
 
-## Summary
+## 📋 Summary
 
 🌕 You made it through Day 1! Here's what you learned:
 
@@ -165,21 +165,21 @@ Tomorrow you'll set up your Claude account and send your very first message!
 
 ---
 
-## Exercises
+## 🏋️ Exercises
 
-### Level 1 — Beginner
+### 🟢 Level 1 — Beginner
 
 1. In your own words, explain the difference between a search engine and Claude AI to a friend.
 2. List 3 tasks in your daily life or work where you think Claude could help you.
 3. What does "LLM" stand for, and what does it mean?
 
-### Level 2 — Intermediate
+### 🟡 Level 2 — Intermediate
 
 4. Think about the last time you searched Google for something. How might the experience have been different if you had asked Claude instead?
 5. What do you think "hallucination" means in the context of AI? Why might it happen?
 6. Anthropic says Claude should be "helpful, harmless, and honest." Give one example of a situation where being honest might mean Claude says it doesn't know something.
 
-### Level 3 — Challenge
+### 🔴 Level 3 — Challenge
 
 7. Research (using any source): What makes Large Language Models different from earlier AI systems like rule-based chatbots?
 8. Why do you think Anthropic focused on AI safety as a core part of building Claude? What risks might an AI assistant pose if it were not designed with safety in mind?

@@ -4,7 +4,7 @@
 
 ---
 
-## What You Will Learn Today
+## 🎯 What You Will Learn Today
 
 - The full range of what Claude can do
 - How Claude handles different types of tasks
@@ -14,7 +14,7 @@
 
 ---
 
-## Claude's Core Capabilities
+## 🌟 Claude's Core Capabilities
 
 ```mermaid
 graph TD
@@ -44,7 +44,7 @@ Claude is one of the most versatile AI assistants available. Think of it as havi
 
 ---
 
-## 1. Writing & Editing
+## ✍️ 1. Writing & Editing
 
 Claude is an exceptional writing partner. It can write, rewrite, improve, and edit nearly any type of text.
 
@@ -69,7 +69,7 @@ and the expanded scope of my responsibilities over the past year."
 
 ---
 
-## 2. Research & Summarization
+## 🔍 2. Research & Summarization
 
 Claude can synthesize complex information and present it clearly.
 
@@ -90,7 +90,7 @@ Use an analogy.
 
 ---
 
-## 3. Coding & Technical Help
+## 💻 3. Coding & Technical Help
 
 Claude is a powerful coding assistant, even for beginners.
 
@@ -111,7 +111,7 @@ Then explain each line of the code.
 
 ---
 
-## 4. Analysis & Critical Thinking
+## 🧠 4. Analysis & Critical Thinking
 
 Claude can help you think through complex problems.
 
@@ -130,7 +130,7 @@ What are the main risks and opportunities I should consider?
 
 ---
 
-## 5. Creative Work
+## 🎨 5. Creative Work
 
 Claude has strong creative abilities.
 
@@ -149,7 +149,7 @@ getting wet. Keep it funny and under 8 lines.
 
 ---
 
-## 6. Learning & Education
+## 📚 6. Learning & Education
 
 Claude is an exceptional tutor.
 
@@ -168,7 +168,7 @@ Can you explain it step by step, starting from the very basics?
 
 ---
 
-## 7. Translation & Language
+## 🌍 7. Translation & Language
 
 Claude handles many languages effectively.
 
@@ -186,7 +186,7 @@ Translate this to French, Spanish, and German:
 
 ---
 
-## 8. Math & Logic
+## 🔢 8. Math & Logic
 
 Claude can handle a wide range of mathematical tasks.
 
@@ -207,7 +207,7 @@ how much will I have after 10 years? Show the calculation step by step.
 
 ---
 
-## Claude's Limitations
+## ⛔ Claude's Limitations
 
 Understanding what Claude *cannot* do is just as important:
 
@@ -222,7 +222,7 @@ Understanding what Claude *cannot* do is just as important:
 
 ---
 
-## Matching Tasks to Claude's Strengths
+## 🎯 Matching Tasks to Claude's Strengths
 
 Use this quick reference to decide when to use Claude:
 
@@ -240,7 +240,7 @@ Use this quick reference to decide when to use Claude:
 
 ---
 
-## Summary
+## 📋 Summary
 
 🌕 Day 4 complete! Claude's capabilities are vast:
 
@@ -257,21 +257,21 @@ And key limitations: knowledge cutoff, no real-time data, no persistent memory, 
 
 ---
 
-## Exercises
+## 🏋️ Exercises
 
-### Level 1 — Beginner
+### 🟢 Level 1 — Beginner
 
 1. Try one prompt from each of the 8 capability areas listed above. Which one surprised you the most?
 2. Find one thing Claude does very well. Find one thing it doesn't do well. Write a short comparison.
 3. Ask Claude to create a short quiz (5 questions) on a topic you're studying or interested in. Take the quiz!
 
-### Level 2 — Intermediate
+### 🟡 Level 2 — Intermediate
 
 4. Paste a paragraph from a news article or blog post and ask Claude to summarize it in 3 bullet points. How accurate is the summary?
 5. Give Claude a logical puzzle or riddle. Does it solve it correctly? How does it explain its reasoning?
 6. Ask Claude to write a piece of creative writing, then ask it to rewrite the same piece in the style of two different genres (e.g., thriller and comedy).
 
-### Level 3 — Challenge
+### 🔴 Level 3 — Challenge
 
 7. Test Claude's limits: Ask about a very recent event (from the last few months). What does Claude say? What does this tell you about using Claude for current information?
 8. Choose a complex decision you're facing (real or hypothetical). Ask Claude to help you analyze it from multiple angles. Evaluate how useful its analysis is.

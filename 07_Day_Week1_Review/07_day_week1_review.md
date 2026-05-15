@@ -4,7 +4,7 @@
 
 ---
 
-## What You Will Do Today
+## 🎯 What You Will Do Today
 
 - Review the key concepts from Week 1
 - Test your understanding with review questions
@@ -13,7 +13,7 @@
 
 ---
 
-## Week 1 at a Glance
+## 🗺️ Week 1 at a Glance
 
 You've covered a lot of ground this week. Here's a quick recap:
 
@@ -28,7 +28,7 @@ You've covered a lot of ground this week. Here's a quick recap:
 
 ---
 
-## Key Terms Review
+## 📖 Key Terms Review
 
 Make sure you can explain each of these in your own words:
 
@@ -45,9 +45,9 @@ Make sure you can explain each of these in your own words:
 
 ---
 
-## Review Questions
+## ❓ Review Questions
 
-### Section A — Foundations (Days 1-2)
+### 🏗️ Section A — Foundations (Days 1-2)
 
 1. What is the difference between Claude and Google Search?
 2. Why does each new Claude conversation start fresh? What are the implications?
@@ -55,7 +55,7 @@ Make sure you can explain each of these in your own words:
 4. True or False: You need a credit card to use Claude's free plan.
 5. What happens to your conversation history if you close your browser?
 
-### Section B — Conversations (Day 3)
+### 💬 Section B — Conversations (Day 3)
 
 6. What are the four elements of a strong prompt? (Hint: Task + ___ + ___ + ___)
 7. If Claude gives you a response that's too long, what should you do?
@@ -63,21 +63,21 @@ Make sure you can explain each of these in your own words:
    > "Help me with my presentation"
 9. Why is it better to have a back-and-forth conversation with Claude than to send one massive prompt?
 
-### Section C — Capabilities (Day 4)
+### ⚡ Section C — Capabilities (Day 4)
 
 10. Name three things Claude is excellent at.
 11. Name two things Claude cannot do.
 12. Should you trust Claude for medical advice without checking with a doctor? Why or why not?
 13. What should you do if Claude cites a study or article you haven't heard of?
 
-### Section D — Models & Plans (Day 5)
+### 🏆 Section D — Models & Plans (Day 5)
 
 14. Which Claude model is the fastest?
 15. Which model is best for complex reasoning tasks?
 16. Is the free plan enough for learning Claude? What are its limitations?
 17. What does a version number like "4.6" tell you about a Claude model?
 
-### Section E — Safety & Ethics (Day 6)
+### 🛡️ Section E — Safety & Ethics (Day 6)
 
 18. What does it mean for Claude to "hallucinate"?
 19. Name three categories of things Claude won't help with.
@@ -86,7 +86,7 @@ Make sure you can explain each of these in your own words:
 
 ---
 
-## Practical Challenges
+## 🏆 Practical Challenges
 
 Complete these hands-on challenges in claude.ai. They combine everything from Week 1.
 
@@ -154,7 +154,7 @@ Then follow up to guide it to something specific and useful for you. Document ea
 
 ---
 
-## Week 1 Self-Assessment
+## 📊 Week 1 Self-Assessment
 
 Rate your confidence (1-5) in each area:
 
@@ -171,7 +171,7 @@ Rate your confidence (1-5) in each area:
 
 ---
 
-## Looking Ahead: Week 2 — The Art of Prompting
+## 🚀 Looking Ahead: Week 2 — The Art of Prompting
 
 You've learned the basics. Now it's time to go deeper.
 
@@ -187,7 +187,7 @@ This is where Claude transforms from "helpful chatbot" to "powerful tool you con
 
 ---
 
-## Summary
+## 📋 Summary
 
 🌕 Week 1 is complete! You now understand:
 

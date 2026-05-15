@@ -4,7 +4,17 @@
 
 ---
 
-> *Coming soon. Complete Days 1–29 first!*
+<div align="center">
+
+## 🚧 Coming Soon
+
+🏁 **Almost there! Complete Days 1–29 to reach the finish line!**
+
+| 🎓 Phase | 📚 Topic Area | 📅 Unlocks |
+|:---:|:---:|:---:|
+| Phase 5 — Projects | 🎓 Graduation | After Day 29 |
+
+</div>
 
 ---
 

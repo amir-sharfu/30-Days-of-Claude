@@ -4,7 +4,17 @@
 
 ---
 
-> *Coming soon. Complete Days 1–13 first!*
+<div align="center">
+
+## 🚧 Coming Soon
+
+📖 **Complete Days 8–13 first before reviewing!**
+
+| 🎓 Phase | 📚 Topic Area | 📅 Unlocks |
+|:---:|:---:|:---:|
+| Phase 2 — Prompting | Week 2 Review | After Day 13 |
+
+</div>
 
 ---
 

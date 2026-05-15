@@ -3,7 +3,7 @@
 [<< Day 1](../01_Day_Introduction/01_day_introduction.md) | [Day 3 >>](../03_Day_First_Conversation/03_day_first_conversation.md)
 
 
-## What You Will Learn Today
+## 🎯 What You Will Learn Today
 
 - How to create a free Claude account
 - How to navigate the claude.ai interface
@@ -13,7 +13,7 @@
 
 ---
 
-## Step 1: Create Your Claude Account
+## 🔐 Step 1: Create Your Claude Account
 
 Getting started with Claude is free and only takes a few minutes.
 
@@ -32,7 +32,7 @@ Getting started with Claude is free and only takes a few minutes.
 
 ---
 
-## Step 2: Explore the Interface
+## 🖥️ Step 2: Explore the Interface
 
 Once you log in, you'll see the main Claude interface. Here's what each part does:
 
@@ -73,7 +73,7 @@ Once you log in, you'll see the main Claude interface. Here's what each part doe
 
 ---
 
-## Ways to Access Claude
+## 🌐 Ways to Access Claude
 
 Claude is available in several places:
 
@@ -100,7 +100,7 @@ Claude is available in several places:
 
 ---
 
-## Free vs. Paid Plans
+## 💰 Free vs. Paid Plans
 
 Claude offers different plans. Here's a simple comparison:
 
@@ -116,7 +116,7 @@ Claude offers different plans. Here's a simple comparison:
 
 ---
 
-## Step 3: Start a New Conversation
+## 💬 Step 3: Start a New Conversation
 
 Let's walk through how a conversation works:
 
@@ -132,7 +132,7 @@ Each conversation has its own memory. Claude remembers what you said **earlier i
 
 ---
 
-## Tips for Using the Interface
+## 💡 Tips for Using the Interface
 
 - **Copy Claude's response:** Hover over the response and look for copy icons
 - **Regenerate a response:** If you don't like Claude's answer, you can ask it to try again
@@ -142,7 +142,7 @@ Each conversation has its own memory. Claude remembers what you said **earlier i
 
 ---
 
-## Summary
+## 📋 Summary
 
 🌕 Day 2 complete! Here's what you set up:
 
@@ -156,21 +156,21 @@ Tomorrow you'll have your first real conversation with Claude!
 
 ---
 
-## Exercises
+## 🏋️ Exercises
 
-### Level 1 — Beginner
+### 🟢 Level 1 — Beginner
 
 1. Log in to claude.ai and start a new conversation. Type: "Hello! I'm new here. Can you introduce yourself?" — write down what Claude says.
 2. What does the "New chat" button do, and why is it important?
 3. Name two ways to access Claude other than the web browser.
 
-### Level 2 — Intermediate
+### 🟡 Level 2 — Intermediate
 
 4. Start two separate conversations with Claude. Ask the same question in both. Notice: are the answers slightly different? Why might that happen?
 5. Try the Claude mobile app if you have a smartphone. How is the experience different from the web version?
 6. If Claude doesn't remember previous conversations, what information do you need to provide each time you start a new chat? Why might this matter for complex tasks?
 
-### Level 3 — Challenge
+### 🔴 Level 3 — Challenge
 
 7. Explore the claude.ai settings page (click your account icon). What options are available? Write a summary of what you find.
 8. Why do you think AI companies offer free tiers? What's the business reason? What are the limitations of free plans for the user?
