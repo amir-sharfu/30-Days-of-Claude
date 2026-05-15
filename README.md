@@ -164,9 +164,7 @@ graph LR
 
 ## 👤 Author
 
-**Amir Sharfu**
 - GitHub: [@amir-sharfu](https://github.com/amir-sharfu)
-- Email: amirazmi078@gmail.com
 
 ---
 
