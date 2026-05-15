@@ -117,15 +117,17 @@ This is the most important reference table of the week. Learn it.
 
 ---
 
-## 🏆 Practical Challenges
+## 🏋️ Exercises
 
 Complete these hands-on challenges in claude.ai. Each one requires combining techniques from different days.
 
 ---
 
-### Challenge 1: The Ultimate Prompt
+### 🟢 Level 1 — Beginner
 
-**Task:** Take a real task you need help with right now. Build the best possible prompt by combining at least 4 techniques:
+**Challenge 1: The Ultimate Prompt**
+
+Take a real task you need help with right now. Build the best possible prompt by combining at least 4 techniques:
 - Task + Context + Format + Constraints (Day 8–9)
 - Audience context (Day 10)
 - A role (Day 11)
@@ -135,9 +137,9 @@ Write your prompt, send it, and rate the response quality 1–10.
 
 ---
 
-### Challenge 2: Prompt Transformation
+**Challenge 2: Prompt Transformation**
 
-**Task:** Start with this terrible prompt:
+Start with this terrible prompt:
 
 > *"Write something."*
 
@@ -147,9 +149,11 @@ In 5 rounds of improvement (don't change the topic — just keep improving the p
 
 ---
 
-### Challenge 3: The Expert Panel
+### 🟡 Level 2 — Intermediate
 
-**Task:** Pick a decision you're actually facing (career, personal, financial, creative — anything real). Get perspectives from 5 different roles:
+**Challenge 3: The Expert Panel**
+
+Pick a decision you're actually facing (career, personal, financial, creative — anything real). Get perspectives from 5 different roles:
 
 1. A practical problem-solver
 2. A devil's advocate
@@ -163,17 +167,19 @@ Ask each role the same core question: *"What's your perspective on this decision
 
 ---
 
-### Challenge 4: Teach by Example
+**Challenge 4: Teach by Example**
 
-**Task:** Identify a task where your output follows a consistent but hard-to-describe pattern (your email style, your report format, your tone on social media). Create a few-shot prompt with 4 real examples from your own work. Test it on a new input.
+Identify a task where your output follows a consistent but hard-to-describe pattern (your email style, your report format, your tone on social media). Create a few-shot prompt with 4 real examples from your own work. Test it on a new input.
 
 *How closely does Claude match your actual style?*
 
 ---
 
-### Challenge 5: The Reasoning Chain
+### 🔴 Level 3 — Challenge
 
-**Task:** Choose a complex multi-step problem — something you'd normally solve with a calculator, a spreadsheet, or careful thinking. Ask Claude to solve it using Chain of Thought. Verify each step. 
+**Challenge 5: The Reasoning Chain**
+
+Choose a complex multi-step problem — something you'd normally solve with a calculator, a spreadsheet, or careful thinking. Ask Claude to solve it using Chain of Thought. Verify each step.
 
 *Did Claude get it right? Where in the chain, if anywhere, did it struggle?*
 

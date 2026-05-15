@@ -2,6 +2,7 @@
 
 [<< Day 1](../01_Day_Introduction/01_day_introduction.md) | [Day 3 >>](../03_Day_First_Conversation/03_day_first_conversation.md)
 
+---
 
 ## 🎯 What You Will Learn Today
 

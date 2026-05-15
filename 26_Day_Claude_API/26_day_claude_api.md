@@ -161,7 +161,7 @@ You manage the conversation history yourself — the API is **stateless**, meani
 Claude doesn't process words — it processes **tokens**. A token is roughly:
 - 1 short word = ~1 token
 - 1 longer word = ~1–2 tokens
-- 1,000 words ≈ 750 tokens
+- 1,000 tokens ≈ 750 words (so 1,000 words ≈ 1,300 tokens)
 
 ### How Billing Works
 
@@ -285,7 +285,7 @@ console.log(message.content[0].text);
 - You need an **API key** from console.anthropic.com (pay-per-use pricing)
 - A request requires: `model`, `max_tokens`, and `messages`
 - Claude is **stateless** — you manage conversation history yourself
-- **Tokens** are the billing unit — roughly 750 tokens per 1,000 words
+- **Tokens** are the billing unit — roughly 1,300 tokens per 1,000 words (1,000 tokens ≈ 750 words)
 - **Choose your model wisely:** Haiku for speed/cost, Sonnet for balance, Opus for quality
 - The API unlocks building bots, pipelines, tools, and automations
 

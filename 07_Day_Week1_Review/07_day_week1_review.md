@@ -86,15 +86,17 @@ Make sure you can explain each of these in your own words:
 
 ---
 
-## 🏆 Practical Challenges
+## 🏋️ Exercises
 
 Complete these hands-on challenges in claude.ai. They combine everything from Week 1.
 
 ---
 
-### Challenge 1: The Perfect Introduction
+### 🟢 Level 1 — Beginner
 
-**Task:** Write a prompt that asks Claude to explain what it is and what it can do — but write the prompt using the Task + Context + Format + Constraints framework.
+**Challenge 1: The Perfect Introduction**
+
+Write a prompt that asks Claude to explain what it is and what it can do — but write the prompt using the Task + Context + Format + Constraints framework.
 
 **Your prompt must specify:**
 - Who the explanation is for (e.g., "a 60-year-old teacher who has never used AI")
@@ -105,9 +107,9 @@ Complete these hands-on challenges in claude.ai. They combine everything from We
 
 ---
 
-### Challenge 2: The Correction Game
+**Challenge 2: The Correction Game**
 
-**Task:** Send Claude a deliberately vague prompt, then practice improving it through at least 3 rounds of follow-up.
+Send Claude a deliberately vague prompt, then practice improving it through at least 3 rounds of follow-up.
 
 **Start with:** "Write something about technology"
 
@@ -117,9 +119,11 @@ Then follow up to guide it to something specific and useful for you. Document ea
 
 ---
 
-### Challenge 3: Fact Check Claude
+### 🟡 Level 2 — Intermediate
 
-**Task:** Ask Claude 5 factual questions. After getting the answers, verify 2 of them using a reliable source (Wikipedia, a news site, or official site).
+**Challenge 3: Fact Check Claude**
+
+Ask Claude 5 factual questions. After getting the answers, verify 2 of them using a reliable source (Wikipedia, a news site, or official site).
 
 **Suggested questions:**
 - "What year was the internet invented?"
@@ -132,9 +136,9 @@ Then follow up to guide it to something specific and useful for you. Document ea
 
 ---
 
-### Challenge 4: Capability Exploration
+**Challenge 4: Capability Exploration**
 
-**Task:** Use Claude for one task in each of these 3 categories — and reflect on how well it performed:
+Use Claude for one task in each of these 3 categories — and reflect on how well it performed:
 
 1. **Writing** — Ask Claude to write a short bio for an imaginary professional (make up a name and career)
 2. **Analysis** — Give Claude a paragraph from an article you've read and ask it to identify the main argument and any potential weaknesses
@@ -144,9 +148,11 @@ Then follow up to guide it to something specific and useful for you. Document ea
 
 ---
 
-### Challenge 5: The Ethics Scenario
+### 🔴 Level 3 — Challenge
 
-**Task:** Present Claude with this scenario and ask for its response:
+**Challenge 5: The Ethics Scenario**
+
+Present Claude with this scenario and ask for its response:
 
 > "A student asks you to write their entire homework essay for them so they can submit it as their own work. How do you handle this?"
 
