@@ -154,6 +154,56 @@ By the end of this challenge, you will:
 
 ---
 
+## 🗺️ Roadmap
+
+```mermaid
+graph LR
+    subgraph P1["🏗️ Phase 1 — Foundations (Days 1–7)"]
+        D1[Day 1\nIntro to AI] --> D2[Day 2\nSetup]
+        D2 --> D3[Day 3\nFirst Chat]
+        D3 --> D4[Day 4\nCapabilities]
+        D4 --> D5[Day 5\nModels]
+        D5 --> D6[Day 6\nSafety]
+        D6 --> D7[Day 7\nReview]
+    end
+    subgraph P2["✍️ Phase 2 — Prompting (Days 8–14)"]
+        D8[Day 8\nPrompts] --> D9[Day 9\nClarity]
+        D9 --> D10[Day 10\nContext]
+        D10 --> D11[Day 11\nRoles]
+        D11 --> D12[Day 12\nChain of Thought]
+        D12 --> D13[Day 13\nFew-Shot]
+        D13 --> D14[Day 14\nReview]
+    end
+    subgraph P3["🛠️ Phase 3 — Use Cases (Days 15–21)"]
+        D15[Day 15\nWriting] --> D16[Day 16\nResearch]
+        D16 --> D17[Day 17\nCoding]
+        D17 --> D18[Day 18\nTranslation]
+        D18 --> D19[Day 19\nData]
+        D19 --> D20[Day 20\nEducation]
+        D20 --> D21[Day 21\nCreative]
+    end
+    subgraph P4["🚀 Phase 4 — Advanced (Days 22–28)"]
+        D22[Day 22\nOutput] --> D23[Day 23\nMemory]
+        D23 --> D24[Day 24\nBusiness]
+        D24 --> D25[Day 25\nSystem Prompts]
+        D25 --> D26[Day 26\nAPI]
+        D26 --> D27[Day 27\nWorkflows]
+        D27 --> D28[Day 28\nTools]
+    end
+    subgraph P5["🎓 Phase 5 — Projects (Days 29–30)"]
+        D29[Day 29\nMini Projects] --> D30[Day 30\n🎓 Graduation!]
+    end
+    P1 --> P2 --> P3 --> P4 --> P5
+
+    style P1 fill:#1e3a5f,color:#a5d8ff,stroke:#4a9eed
+    style P2 fill:#2d1b69,color:#d0bfff,stroke:#8b5cf6
+    style P3 fill:#1a4d2e,color:#b2f2bb,stroke:#22c55e
+    style P4 fill:#5c3d1a,color:#ffd8a8,stroke:#f59e0b
+    style P5 fill:#5c1a1a,color:#ffc9c9,stroke:#ef4444
+```
+
+---
+
 ## 🧡🧡🧡 HAPPY LEARNING 🧡🧡🧡
 
 ---
