@@ -58,7 +58,7 @@ Every day file must follow this structure (in order):
 
 ## README Badges
 
-The README badges reference `yourusername/30-Days-Of-Claude`. Update these when the repo is published to GitHub with the real username.
+The README badges reference `amir-sharfu/30-Days-of-Claude` on GitHub.
 
 ## Sibling Repositories
 

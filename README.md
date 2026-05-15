@@ -6,8 +6,8 @@
 
 > **[View interactive course roadmap →](https://excalidraw.com/#json=rVGva5DrgrFRyFzs2OwL2,lQVhBBgy7PEdPdGFWHlX5w)**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/30-Days-Of-Claude?style=social)](https://github.com/yourusername/30-Days-Of-Claude)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/30-Days-Of-Claude?style=social)](https://github.com/yourusername/30-Days-Of-Claude)
+[![GitHub stars](https://img.shields.io/github/stars/amir-sharfu/30-Days-of-Claude?style=social)](https://github.com/amir-sharfu/30-Days-of-Claude)
+[![GitHub forks](https://img.shields.io/github/forks/amir-sharfu/30-Days-of-Claude?style=social)](https://github.com/amir-sharfu/30-Days-of-Claude)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **A 30-day journey from complete beginner to confident Claude AI user.**
