@@ -2,15 +2,6 @@
 
 [<< Day 1](../01_Day_Introduction/01_day_introduction.md) | [Day 3 >>](../03_Day_First_Conversation/03_day_first_conversation.md)
 
----
-
-<div align="center">
-
-![Claude](../images/claude.png)
-
-</div>
-
----
 
 ## What You Will Learn Today
 
@@ -44,6 +35,17 @@ Getting started with Claude is free and only takes a few minutes.
 ## Step 2: Explore the Interface
 
 Once you log in, you'll see the main Claude interface. Here's what each part does:
+
+---
+
+<div align="center">
+
+![Claude](../images/claude.png)
+
+</div>
+
+---
+
 
 ```
 ┌─────────────────────────────────────────────────────────┐
