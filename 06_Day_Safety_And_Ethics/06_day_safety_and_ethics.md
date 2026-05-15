@@ -85,7 +85,29 @@ Many sensitive topics can be discussed thoughtfully:
 
 ## AI Hallucination: What It Is and How to Handle It
 
-> **[View diagram: What is AI Hallucination? →](https://excalidraw.com/#json=65xCwN0c4dS1vKSlQpAQy,i-lfnAFdlDKB08HJy9SpAg)**
+```mermaid
+graph TD
+    Q["❓ You ask Claude a question"]
+    P["🧠 Claude predicts\nthe most likely answer\nbased on patterns"]
+    Q --> P
+
+    P --> OK["✅ Correct answer\n(most of the time)"]
+    P --> HA["❌ Confident wrong answer\n= Hallucination"]
+
+    HA --> EX["📌 Example:\nYou ask about a study.\nClaude cites 'Smith et al. 2021'\nwith total confidence —\nbut that paper doesn't exist."]
+
+    EX --> WHY["⚙️ Why it happens:\nClaude fills in 'likely' text,\nnot verified facts.\nIt doesn't always know\nwhat it doesn't know."]
+
+    WHY --> FIX["🛡️ How to protect yourself:\n✔ Verify important facts\n✔ Don't trust citations blindly\n✔ Ask: 'Are you sure?'\n✔ Consult experts for critical decisions"]
+
+    style Q fill:#1e3a5f,color:#a5d8ff,stroke:#4a9eed
+    style P fill:#2d1b69,color:#d0bfff,stroke:#8b5cf6
+    style OK fill:#1a4d2e,color:#b2f2bb,stroke:#22c55e
+    style HA fill:#5c1a1a,color:#ffc9c9,stroke:#ef4444
+    style EX fill:#5c3d1a,color:#ffd8a8,stroke:#f59e0b
+    style WHY fill:#2d1b69,color:#d0bfff,stroke:#8b5cf6
+    style FIX fill:#1a4d2e,color:#b2f2bb,stroke:#22c55e
+```
 
 **Hallucination** is when an AI generates information that sounds confident and plausible but is factually incorrect.
 

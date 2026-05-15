@@ -33,7 +33,33 @@ Each model represents a different **tradeoff** between speed, cost, and intellig
 
 ## The Claude Model Lineup
 
-> **[View diagram: Claude Model Tiers →](https://excalidraw.com/#json=oSo6Ib1gBJqxxckxW_1AY,2CP6GsRMgmvUV4yPTQdgGw)**
+```mermaid
+graph LR
+    subgraph H["🐦 Haiku — Fast & Light"]
+        H1["Speed: ⚡⚡⚡ Fastest"]
+        H2["Intelligence: Good"]
+        H3["Cost: $ Lowest"]
+        H4["Best for: Quick questions,\nsimple tasks, high volume"]
+    end
+    subgraph S["🎵 Sonnet — Sweet Spot ⭐"]
+        S1["Speed: ⚡⚡ Fast"]
+        S2["Intelligence: Strong"]
+        S3["Cost: $$ Mid-range"]
+        S4["Best for: Writing, coding,\nresearch, most tasks"]
+    end
+    subgraph O["🎭 Opus — Deep Thinker"]
+        O1["Speed: ⚡ Thoughtful"]
+        O2["Intelligence: Highest"]
+        O3["Cost: $$$ Premium"]
+        O4["Best for: Complex reasoning,\ndeep analysis, hard problems"]
+    end
+
+    H --> S --> O
+
+    style H fill:#1a4d2e,color:#b2f2bb,stroke:#22c55e
+    style S fill:#2d1b69,color:#d0bfff,stroke:#8b5cf6
+    style O fill:#5c3d1a,color:#ffd8a8,stroke:#f59e0b
+```
 
 ### Claude Haiku 🐦 — Fast & Efficient
 

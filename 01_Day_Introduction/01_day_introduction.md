@@ -53,7 +53,28 @@ Claude is what's called a **Large Language Model (LLM)**. It was trained on vast
 
 ## Claude vs. a Search Engine
 
-> **[View diagram: Claude vs. Search Engine →](https://excalidraw.com/#json=li5IyZpgBoOSCBJo_XRRz,eWruG6gtK9IvMhrtYngh0A)**
+```mermaid
+graph LR
+    subgraph SE["🔍 Search Engine  (Google, Bing...)"]
+        S1[Returns links\nto web pages]
+        S2[Finds existing\ncontent]
+        S3[You click through\narticles]
+        S4[No writing\nor analysis]
+        S5[No conversation\nmemory]
+        S6[Best for:\nfinding specific URLs]
+    end
+    subgraph CA["🤖 Claude AI"]
+        C1[Creates a direct\nanswer for you]
+        C2[Generates\nnew content]
+        C3[Information\ndelivered to you]
+        C4[Writes, edits &\nanalyzes for you]
+        C5[Remembers within\na conversation]
+        C6[Best for:\nthinking, writing, learning]
+    end
+
+    style SE fill:#5c3d1a,color:#ffd8a8,stroke:#f59e0b
+    style CA fill:#1e3a5f,color:#a5d8ff,stroke:#4a9eed
+```
 
 Many beginners confuse Claude with a search engine like Google. They are very different:
 

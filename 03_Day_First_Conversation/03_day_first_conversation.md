@@ -94,7 +94,22 @@ The pattern: **be specific** about what you want, who it's for, and what format 
 
 ## The Anatomy of a Great Prompt
 
-> **[View diagram: Prompt Anatomy →](https://excalidraw.com/#json=ZnQf1dtvHhWMNXOBlByEJ,7Q9KFEGFejtlMCeYv9DhYA)**
+```mermaid
+graph LR
+    T["📌 TASK\nWhat to do\n──────────\nWrite / Explain\nList / Summarize"]
+    C["🗂️ CONTEXT\nBackground info\n──────────\nFor a 10-year-old\nAt a job interview"]
+    F["📄 FORMAT\nOutput shape\n──────────\nBullet points\n3 paragraphs"]
+    L["⚙️ LIMITS\nConstraints\n──────────\nUnder 100 words\nFriendly tone"]
+    R(["✅ Great\nResponse"])
+
+    T --> C --> F --> L --> R
+
+    style T fill:#1e3a5f,color:#a5d8ff,stroke:#4a9eed
+    style C fill:#2d1b69,color:#d0bfff,stroke:#8b5cf6
+    style F fill:#1a4d2e,color:#b2f2bb,stroke:#22c55e
+    style L fill:#5c3d1a,color:#ffd8a8,stroke:#f59e0b
+    style R fill:#1a4d2e,color:#b2f2bb,stroke:#22c55e
+```
 
 A strong prompt often includes some of these elements:
 

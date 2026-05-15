@@ -16,7 +16,29 @@
 
 ## Claude's Core Capabilities
 
-> **[View diagram: Claude's 8 Capabilities →](https://excalidraw.com/#json=UaQfxOCBbQLL6VWqfZ6vB,1_X5PIhilfNfvTPJsWYu6w)**
+```mermaid
+graph TD
+    CL(["🤖 Claude"])
+
+    CL --> W["✍️ Writing & Editing\nEmails, essays, proofreading"]
+    CL --> R["🔍 Research & Summaries\nExplain, compare, summarize"]
+    CL --> CO["💻 Coding & Debugging\nWrite, explain, fix code"]
+    CL --> AN["📊 Analysis & Reasoning\nPros/cons, critical thinking"]
+    CL --> CR["🎨 Creative Writing\nStories, poems, scripts"]
+    CL --> ED["📚 Education & Tutoring\nExplain anything, any level"]
+    CL --> TR["🌍 Translation\nDozens of languages"]
+    CL --> MA["🔢 Math & Logic\nStep-by-step problem solving"]
+
+    style CL fill:#1e3a5f,color:#a5d8ff,stroke:#4a9eed
+    style W fill:#2d1b69,color:#d0bfff,stroke:#8b5cf6
+    style R fill:#1a4d2e,color:#b2f2bb,stroke:#22c55e
+    style CO fill:#1e3a5f,color:#a5d8ff,stroke:#4a9eed
+    style AN fill:#5c1a1a,color:#ffc9c9,stroke:#ef4444
+    style CR fill:#1a4d4d,color:#c3fae8,stroke:#06b6d4
+    style ED fill:#3d1a5c,color:#eebefa,stroke:#ec4899
+    style TR fill:#5c3d1a,color:#ffd8a8,stroke:#f59e0b
+    style MA fill:#1a4d2e,color:#b2f2bb,stroke:#22c55e
+```
 
 Claude is one of the most versatile AI assistants available. Think of it as having expertise in many fields at once. Let's explore each area.
 
