@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![30 Days of Claude Course Roadmap](https://excalidraw.com/favicon.ico)](https://excalidraw.com/#json=rVGva5DrgrFRyFzs2OwL2,lQVhBBgy7PEdPdGFWHlX5w)
+[![Claude AI Course Icon](./images/claude-icon.svg)](https://excalidraw.com/#json=OCdZm_Mk5Ik42tbYrL7WN,DphCNdf6TlVD9sPpsksCSg)
 
-> **[View interactive course roadmap →](https://excalidraw.com/#json=rVGva5DrgrFRyFzs2OwL2,lQVhBBgy7PEdPdGFWHlX5w)**
+> **[View interactive course roadmap →](https://excalidraw.com/#json=OCdZm_Mk5Ik42tbYrL7WN,DphCNdf6TlVD9sPpsksCSg)**
 
 [![GitHub stars](https://img.shields.io/github/stars/amir-sharfu/30-Days-of-Claude?style=social)](https://github.com/amir-sharfu/30-Days-of-Claude)
 [![GitHub forks](https://img.shields.io/github/forks/amir-sharfu/30-Days-of-Claude?style=social)](https://github.com/amir-sharfu/30-Days-of-Claude)

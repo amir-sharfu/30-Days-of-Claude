@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="80" height="80">
+  <circle cx="50" cy="50" r="48" fill="#1e1e2e" stroke="#4a9eed" stroke-width="2"/>
+  <!-- Head -->
+  <ellipse cx="50" cy="38" rx="22" ry="22" fill="#4a9eed" opacity="0.15" stroke="#4a9eed" stroke-width="1.5"/>
+  <!-- Eyes -->
+  <circle cx="42" cy="35" r="4" fill="#4a9eed"/>
+  <circle cx="58" cy="35" r="4" fill="#4a9eed"/>
+  <circle cx="43" cy="34" r="1.5" fill="#1e1e2e"/>
+  <circle cx="59" cy="34" r="1.5" fill="#1e1e2e"/>
+  <!-- Smile -->
+  <path d="M 40 45 Q 50 53 60 45" stroke="#4a9eed" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Antenna -->
+  <line x1="50" y1="16" x2="50" y2="10" stroke="#4a9eed" stroke-width="2"/>
+  <circle cx="50" cy="8" r="3" fill="#8b5cf6"/>
+  <!-- Body -->
+  <rect x="30" y="62" width="40" height="22" rx="8" fill="#4a9eed" opacity="0.2" stroke="#4a9eed" stroke-width="1.5"/>
+  <!-- Chest dots -->
+  <circle cx="43" cy="73" r="3" fill="#8b5cf6"/>
+  <circle cx="50" cy="73" r="3" fill="#4a9eed"/>
+  <circle cx="57" cy="73" r="3" fill="#22c55e"/>
+</svg>
