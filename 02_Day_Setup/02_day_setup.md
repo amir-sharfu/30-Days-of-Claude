@@ -99,6 +99,8 @@ Claude is available in several places:
 
 > 💡 **For this course, use claude.ai in a web browser.** It gives you the most complete experience.
 
+> 📌 **Heads up:** While exploring online you may come across **"Claude Code"** (a developer tool) or **"Claude Cowork"** (a team workspace). These are separate products built on the same Claude AI — we'll map out the full picture on **Day 5**. For now, stick with claude.ai.
+
 ---
 
 ## 💰 Free vs. Paid Plans
