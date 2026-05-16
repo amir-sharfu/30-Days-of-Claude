@@ -397,7 +397,11 @@ Go build something. Go teach someone. Go solve a problem you've been putting off
 
 <div align="center">
 
-🕺
+🎊 🎉 🎈 🎆 🎇 🎊 🎉 🎈 🎆 🎇 🎊 🎉 🎈 🎆 🎇
+
+![Celebration](https://cultofthepartyparrot.com/parrots/hd/parrot.gif)
+
+🎇 🎆 🎈 🎉 🎊 🎇 🎆 🎈 🎉 🎊 🎇 🎆 🎈 🎉 🎊
 
 </div>
 
