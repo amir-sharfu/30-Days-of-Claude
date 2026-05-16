@@ -28,6 +28,14 @@ You've covered a lot of ground this week. Here's a quick recap:
 
 ---
 
+## 📹 Week 1 Video Recap
+
+> 🎬 **Video walkthrough coming soon.** A short video covering the Week 1 highlights will be linked here. Subscribe to the channel to be notified when it drops.
+>
+> In the meantime, use the recap table above and the Key Terms section below to review at your own pace.
+
+---
+
 ## 📖 Key Terms Review
 
 Make sure you can explain each of these in your own words:

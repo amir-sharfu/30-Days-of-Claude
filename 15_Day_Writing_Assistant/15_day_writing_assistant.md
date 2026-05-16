@@ -49,6 +49,8 @@ per section.
 
 Review the outline, adjust it, then ask Claude to write each section.
 
+> 🧪 **Try this right now:** Think of something you've been meaning to write — an email, a post, a short report. Ask Claude for an outline first. Adjust one item you'd do differently, then ask it to write the first section only. Iteration beats one-shot every time.
+
 ---
 
 ### Drafting a Full Document

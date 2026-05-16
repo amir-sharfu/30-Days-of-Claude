@@ -14,6 +14,14 @@
 
 ---
 
+## 📹 Phase 3 Video Recap
+
+> 🎬 **Video walkthrough coming soon.** A short recap of the Phase 3 Use Cases (Days 15–21) — writing, research, code, translation, data, education, and creativity — will be linked here.
+>
+> Subscribe to be notified when it's live.
+
+---
+
 ## 🎨 Claude's Creative Range
 
 Claude has broad creative abilities — from writing complete stories to helping you polish a single sentence. Here's what it can do:

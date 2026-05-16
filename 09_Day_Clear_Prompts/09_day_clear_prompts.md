@@ -59,6 +59,8 @@ Claude will change its tone, vocabulary, and depth depending on who the output i
 
 Same topic. Completely different appropriate responses.
 
+> 🧪 **Try this right now:** Pick any topic you're curious about. Ask Claude once with no context. Then start a new chat and ask again — this time add who you are and what you want to get out of the answer. Compare the two responses side by side.
+
 ---
 
 ### Technique 3: 📏 Set the Scope

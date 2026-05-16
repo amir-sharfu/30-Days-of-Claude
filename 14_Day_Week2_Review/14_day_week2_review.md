@@ -29,6 +29,14 @@ You covered the core science of prompting this week. Here's a quick recap:
 
 ---
 
+## 📹 Week 2 Video Recap
+
+> 🎬 **Video walkthrough coming soon.** A short video covering the Week 2 prompting techniques will be linked here. Subscribe to be notified.
+>
+> Until then, the Week 2 at a Glance table above is the fastest way to refresh all five techniques before the review exercises.
+
+---
+
 ## 📖 Key Terms Review
 
 Fill in these definitions from memory, then check back against Days 8–13:

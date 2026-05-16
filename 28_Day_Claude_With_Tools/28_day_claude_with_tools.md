@@ -32,6 +32,14 @@ The pattern is always the same: **Claude handles the intelligence; tools handle 
 
 ---
 
+## 📹 Phase 4 Video Recap
+
+> 🎬 **Video walkthrough coming soon.** A recap of Phase 4 Advanced Claude (Days 22–28) — structured output, multi-turn conversations, business workflows, system prompts, the API, and tool use — will be linked here.
+>
+> Subscribe to be notified when it's available.
+
+---
+
 ## 🔧 How Tool Use Works
 
 Anthropic built **tool use** (also called function calling) directly into the Claude API. Here's how it works:

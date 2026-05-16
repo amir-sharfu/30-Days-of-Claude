@@ -42,6 +42,8 @@ ask me guiding questions to help me figure out the solution myself.
 
 > 💡 **Why it works:** Claude has learned from the writing, reasoning, and communication style of countless experts across every field. When you specify a role, you're essentially asking Claude to lean into that particular style, vocabulary, and way of thinking.
 
+> 🧪 **Try this right now:** Open a new chat and type: `Act as a professional career coach. I'll tell you my job title and you'll give me one piece of advice I probably haven't heard before.` Then tell Claude your job title. Notice how different this feels from a plain question.
+
 ---
 
 ## 🧠 Why Role Prompting Works

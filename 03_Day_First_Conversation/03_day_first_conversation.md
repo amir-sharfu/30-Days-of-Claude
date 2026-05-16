@@ -43,6 +43,8 @@ Claude: Without sunlight, plants can't make food. They'd slowly use up
 
 Notice how Claude remembers what was discussed earlier in the conversation. You don't have to explain photosynthesis again — Claude knows the context.
 
+> 🧪 **Try this right now:** Open claude.ai and type `What is photosynthesis?` — then follow up with `Can you explain it like I'm 10 years old?` Watch how Claude adjusts without you repeating yourself.
+
 ---
 
 ## ✍️ Your First Prompts
