@@ -336,6 +336,16 @@ a letter from someone they thought was dead — in 4 different genres:
 
 ---
 
+## 📢 Share Your Output
+
+You just wrote something creative with Claude — a story, a poem, a scene, a character. That's worth sharing.
+
+> 🌍 **Post your favourite piece** on LinkedIn, X, or Instagram with **[#30DaysOfClaude](https://github.com/amir-sharfu/30-Days-of-Claude/issues/1)**.
+>
+> Drop it in the **[community thread on GitHub](https://github.com/amir-sharfu/30-Days-of-Claude/issues/1)** — creative work from real learners is the best advertisement this course has.
+
+---
+
 🧡🧡🧡 HAPPY LEARNING 🧡🧡🧡
 
 [<< Day 20](../20_Day_Education_And_Learning/20_day_education_and_learning.md) | [Day 22 >>](../22_Day_Structured_Output/22_day_structured_output.md)
