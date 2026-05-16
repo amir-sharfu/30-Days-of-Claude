@@ -397,9 +397,11 @@ Go build something. Go teach someone. Go solve a problem you've been putting off
 
 <div align="center">
 
+![Fireworks](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)
+
 🎊 🎉 🎈 🎆 🎇 🎊 🎉 🎈 🎆 🎇 🎊 🎉 🎈 🎆 🎇
 
-![Celebration](https://cultofthepartyparrot.com/parrots/hd/parrot.gif)
+![Dancing Crowd](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
 
 🎇 🎆 🎈 🎉 🎊 🎇 🎆 🎈 🎉 🎊 🎇 🎆 🎈 🎉 🎊
 
