@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Claude AI Course Icon](./images/claude%20icon.png)
+![Claude AI Course Icon](./images/claude-icon.svg)
 
 [![GitHub stars](https://img.shields.io/github/stars/amir-sharfu/30-Days-of-Claude?style=social)](https://github.com/amir-sharfu/30-Days-of-Claude)
 [![GitHub forks](https://img.shields.io/github/forks/amir-sharfu/30-Days-of-Claude?style=social)](https://github.com/amir-sharfu/30-Days-of-Claude)
