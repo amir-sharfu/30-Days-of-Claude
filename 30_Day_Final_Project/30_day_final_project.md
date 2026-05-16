@@ -395,6 +395,12 @@ Go build something. Go teach someone. Go solve a problem you've been putting off
 
 **The course is over. The learning never stops.**
 
+<div align="center">
+
+🕺
+
+</div>
+
 ---
 
 🧡🧡🧡 HAPPY LEARNING 🧡🧡🧡
