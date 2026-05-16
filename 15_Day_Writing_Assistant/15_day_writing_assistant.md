@@ -291,6 +291,16 @@ graph LR
 
 ---
 
+## 📢 Share Your Output
+
+You just used Claude to write something real. Don't let it sit in a tab.
+
+> 🌍 **Post what you made** — an email, a draft, a document — on LinkedIn, X, or Instagram with **[#30DaysOfClaude](https://github.com/amir-sharfu/30-Days-of-Claude/issues/1)**.
+>
+> Drop it in the **[community thread on GitHub](https://github.com/amir-sharfu/30-Days-of-Claude/issues/1)** too — your output might be the thing that convinces someone else to start this course.
+
+---
+
 🧡🧡🧡 HAPPY LEARNING 🧡🧡🧡
 
 [<< Day 14](../14_Day_Week2_Review/14_day_week2_review.md) | [Day 16 >>](../16_Day_Research_And_Summarization/16_day_research_and_summarization.md)

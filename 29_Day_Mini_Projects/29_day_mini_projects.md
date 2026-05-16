@@ -319,6 +319,16 @@ that makes the concept stick for a beginner.
 
 ---
 
+## 📢 Share Your Output
+
+You just finished a complete, real-world project using Claude. That is genuinely impressive. Show someone.
+
+> 🌍 **Post your project output** on LinkedIn, X, or Instagram with **[#30DaysOfClaude](https://github.com/amir-sharfu/30-Days-of-Claude/issues/1)** — a learning guide, a cover letter, a business plan, a content calendar. Whatever you made, it counts.
+>
+> Drop it in the **[community thread on GitHub](https://github.com/amir-sharfu/30-Days-of-Claude/issues/1)**. You'll see what other learners built, get ideas for Day 30, and add your output to the Hall of Fame.
+
+---
+
 🧡🧡🧡 HAPPY LEARNING 🧡🧡🧡
 
 [<< Day 28](../28_Day_Claude_With_Tools/28_day_claude_with_tools.md) | [Day 30 >>](../30_Day_Final_Project/30_day_final_project.md)
