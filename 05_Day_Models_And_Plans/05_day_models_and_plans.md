@@ -11,6 +11,7 @@
 - The differences between free and paid plans
 - How to choose the right model for your task
 - What to expect from each tier of access
+- The difference between Claude, Claude Code, and Claude Cowork
 
 ---
 
@@ -158,6 +159,76 @@ graph LR
 
 ---
 
+## 🌐 The Claude Ecosystem — Products vs. Models
+
+So far you've learned about Claude's *models* (Haiku, Sonnet, Opus) and *plans* (Free, Pro, Team). But there's a third dimension that confuses many beginners: **Claude products**.
+
+Anthropic builds one AI brain — Claude — but packages it into different **products** designed for different types of users. Think of it like Microsoft offering Word, Excel, and Teams: they all share the same Office engine, but each is built for a completely different job.
+
+```mermaid
+graph TD
+    A["🏢 Anthropic\nThe company that builds Claude"]
+    A --> B["🧠 Claude AI\nThe underlying intelligence"]
+
+    B --> P1["💬 Claude\nclaude.ai"]
+    B --> P2["💻 Claude Code\nCLI tool"]
+    B --> P3["👥 Claude Cowork\nTeam workspace"]
+
+    P1 --> U1["👤 Everyone\nChat · Write · Learn · Create"]
+    P2 --> U2["👨‍💻 Developers\nCode · Build · Debug · Deploy"]
+    P3 --> U3["🏢 Teams & Businesses\nCollaborate · Share · Manage"]
+
+    style A fill:#1e3a5f,color:#a5d8ff,stroke:#4a9eed
+    style B fill:#2d1b69,color:#d0bfff,stroke:#8b5cf6
+    style P1 fill:#1a4d2e,color:#b2f2bb,stroke:#22c55e
+    style P2 fill:#5c3d1a,color:#ffd8a8,stroke:#f59e0b
+    style P3 fill:#4a1942,color:#f9b4ed,stroke:#e879f9
+    style U1 fill:#1a4d2e,color:#b2f2bb,stroke:#22c55e
+    style U2 fill:#5c3d1a,color:#ffd8a8,stroke:#f59e0b
+    style U3 fill:#4a1942,color:#f9b4ed,stroke:#e879f9
+```
+
+### The Three Claude Products at a Glance
+
+| | 💬 Claude (claude.ai) | 💻 Claude Code | 👥 Claude Cowork |
+|---|---|---|---|
+| **What it is** | Chat assistant in your browser | AI coding tool in your terminal | Team collaboration workspace |
+| **Who it's for** | Everyone | Software developers | Teams and businesses |
+| **How you use it** | Web browser or mobile app | Command-line interface (CLI) | Shared team workspace |
+| **Primary job** | Chat, write, analyze, learn | Write, debug, and build software | Manage shared AI workflows |
+| **Tech skill needed** | None | Coding knowledge required | Some setup required |
+| **This course uses** | ✅ Yes | ❌ No | ❌ No |
+
+> 💡 **This course uses claude.ai only.** You never need to install Claude Code or set up Claude Cowork to complete any lesson here.
+
+> ⚠️ **Common confusion:** Many beginners Google "Claude" and land on Claude Code documentation, which uses developer terms like "CLI", "terminal", and "API keys". If that's happened to you — you're in exactly the right place. This course is for the simple web interface at claude.ai, no coding required.
+
+### Which Product Is Right for You?
+
+Use this decision tree:
+
+```
+Are you a software developer who wants Claude inside your terminal or code editor?
+├── YES → Claude Code is for you
+└── NO  → Are you managing a team that needs shared AI access?
+          ├── YES → Claude Cowork is for you
+          └── NO  → Claude (claude.ai) is for you  ← YOU ARE HERE
+```
+
+### How Models Fit In
+
+Here's how everything connects:
+
+```
+Claude Product  →  claude.ai
+                   └── uses Claude Models  →  Haiku / Sonnet / Opus
+                       └── available via  →  Free / Pro / Team Plans
+```
+
+The product is **what you open**. The model is **the brain running inside it**. The plan is **how much access you get**. All three layers exist for every product.
+
+---
+
 ## 🔍 How to Know Which Model You're Using
 
 On claude.ai, you may see the model name displayed near the chat input box or in settings. The available models depend on your plan.
@@ -213,6 +284,7 @@ Anthropic updates models over time. Newer versions within the same tier are gene
 - **Opus** — deepest reasoning, best for complex problems
 - **Free plan** is enough to learn Claude; **Pro** unlocks more models and higher limits
 - Match your task to the right model tier for best results
+- **Claude ecosystem:** one AI brain, three products — claude.ai (everyone), Claude Code (developers), Claude Cowork (teams)
 
 ---
 
